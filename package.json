@@ -1,0 +1,30 @@
+{
+	"name": "TreasureHunt",
+	"version": "0.0.1",
+	"description": "Treasure Hunt",
+	"author": "dcollien <me@dcollien.com>",
+	"contributors": [{
+		"name": "dcollien",
+		"email": "me@dcollien.com"
+	}],
+	"scripts": {
+		"build": "build"
+	},
+	"dependencies": {
+		"webpack": "*",
+		"coffee-loader": "*",
+		"coffee-jsx-loader": "*",
+		"jsx-loader": "*",
+		"style-loader": "*",
+		"css-loader": "*",
+		"script-loader": "*",
+		"less-loader": "*",
+		"file-loader": "*",
+		"url-loader": "*",
+		"bower-webpack-plugin": "*",
+		"react": "*",
+		"express": "*",
+		"socket.io": "*",
+		"crypto": "*"
+	}
+}

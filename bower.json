@@ -1,0 +1,32 @@
+{
+  "name": "TreasureHunt",
+  "version": "0.0.1",
+  "authors": [
+    "dcollien <me@dcollien.com>"
+  ],
+  "description": "Treasure Hunt",
+  "main": "index.html",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "treasure",
+    "hunt",
+    "geocache"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "*",
+    "underscore": "*"
+  }
+}
